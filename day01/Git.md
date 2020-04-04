@@ -36,6 +36,7 @@
 ## git log
     git log
     git log --oneline       |-----查看历史提交记录
+    git log --oneline --graph --all      |-----查看项目分叉历史
 ## git rm
     git rm 文件名            | 删除工作目录中对应的文件,再将修改添加到暂存区
     git mv 原文件 新文件      |-----将工作目录中对应的文件重命名,再将修改添加到暂存区
