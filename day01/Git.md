@@ -5,6 +5,9 @@
     git config --global user.name 'tangqirui'
     git config --global user.email '1540232859@qq.com'
     git config --list
+    git config --global alias.别名 "要执行的git命令"
+    //删除配置
+    git config --global --unset 配置名
 
 # 区域
     工作区
@@ -48,6 +51,8 @@
     git branch -v           |查看每一个分支最后一次提交
     git branch 分之名 提交hash           |以提交的hash为基础创建分支
 ## git checkout
+    git checkout 分之名       |-----切换分支
+## git config --global alias ""
     git checkout 分之名       |-----切换分支
 
 
