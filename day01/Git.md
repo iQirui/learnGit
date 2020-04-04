@@ -40,7 +40,10 @@
     git rm 文件名            | 删除工作目录中对应的文件,再将修改添加到暂存区
     git mv 原文件 新文件      |-----将工作目录中对应的文件重命名,再将修改添加到暂存区
 ## git branch
+    git branch               |-----显示分支列表
     git branch 分之名         |-----创建分支
+## git checkout
+    git checkout 分之名       |-----切换分支
 ## git checkout
     git checkout 分之名       |-----切换分支
 
