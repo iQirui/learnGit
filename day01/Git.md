@@ -45,10 +45,11 @@
     git branch 分之名         |-----创建分支
     git branch -d 分之名     |删除分支
     git branch -D 分之名     |强制删除分支
+    git branch -v           |查看每一个分支最后一次提交
+    git branch 分之名 提交hash           |以提交的hash为基础创建分支
 ## git checkout
     git checkout 分之名       |-----切换分支
-## git branch -d develop
-    git checkout 分之名       |-----切换分支
+
 
 
 
