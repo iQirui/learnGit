@@ -33,6 +33,9 @@
     git diff                |-----修改之后还没有暂存起来的变化内容
     git diff --cached       |-----查看以及被暂存还没提交
     git diff --staged       |-----查看以及被暂存还没提交
+## git log
+    git log
+    git log --oneline       |-----查看历史提交记录
 
 
 
