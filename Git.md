@@ -74,6 +74,9 @@
 ## git restore
     git restore 文件名   |-----撤回工作目录中的修改
     git checkout 文件名  |-----撤回工作目录中的修改
-    git ls-files -s
+    git ls-files -s      ||-----查看缓存区文件
+
+    git restore --staged <file>...  |撤销缓存区文件
 
 
+    ----------------------16集 16分
