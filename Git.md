@@ -53,7 +53,7 @@
 ## git checkout
     git checkout 分之名       |-----切换分支
 ## git config --global alias ""
-    git checkout 分之名       |-----切换分支
+    git config --global alias ""       |-----配置别名
 
 ## git merge
     gir merge 分之名          |--把分支合并到当前分支
@@ -65,6 +65,9 @@
 # GIT存储
     git stash        |-----储存
     git stash list   |-----查看所有储存
+    git stash apply   |-----应用第一个储存
+    git stash drop 储存名   |-----删除储存
+    git stash pop          |-----应用储存并删除储存
 
 
 
