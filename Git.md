@@ -74,3 +74,5 @@
 ## git restore
     git restore 文件名   |-----撤回工作目录中的修改
     git checkout 文件名  |-----撤回工作目录中的修改
+
+    c
