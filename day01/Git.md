@@ -58,3 +58,9 @@
 ## git merge
     gir merge 分之名          |--把分支合并到当前分支
 
+    git remote add origin https://github.com/iQirui/learnGit.git
+    git push -u origin master
+
+
+
+
