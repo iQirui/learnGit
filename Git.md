@@ -63,6 +63,8 @@
     git push -u origin master |--
 
 # GIT存储
+    git stash        |-----储存
+    git stash list   |-----查看所有储存
 
 
 
