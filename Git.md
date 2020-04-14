@@ -60,7 +60,7 @@
 
     git remote -v
     git remote add origin https://github.com/iQirui/learnGit.git
-    git push -u origin master
+    git push -u origin master |
 
 
 
