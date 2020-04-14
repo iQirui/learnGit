@@ -55,6 +55,6 @@
 ## git config --global alias ""
     git checkout 分之名       |-----切换分支
 
-
-
+## git merge
+    gir merge 分之名          |--把分支合并到当前分支
 
