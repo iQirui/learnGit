@@ -77,6 +77,7 @@
     git ls-files -s      ||-----查看缓存区文件
 
     git restore --staged <file>...  |撤销缓存区文件
+    git commit --amend              |-----修改提交备注信息
 
 
-    ----------------------16集 16分
+    
